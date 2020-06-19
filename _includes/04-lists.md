@@ -1,0 +1,5 @@
+- Ice cream
+- Coding
+- Studying
+- Dogs
+- Cats
